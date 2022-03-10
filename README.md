@@ -4,7 +4,9 @@
 
 <video autoplay src="https://assets.huabyte.com/blog/image/Tab-1645529042263.webm"></video>
 
-我自己的3d网站也是根据国外大佬改的，这里先放大佬源码地址：[https://github.com/0xFloyd/Portfolio_2020](https://github.com/0xFloyd/Portfolio_2020)
+3d网站也是根据国外大佬改的
+
+这里先放大佬源码地址：[https://github.com/0xFloyd/Portfolio_2020](https://github.com/0xFloyd/Portfolio_2020)
 
 ## 项目环境
 
@@ -85,15 +87,15 @@ SVG.reactLogo = '../src/jsm/react-svg.svg';
 // 链接的跳转地址
 let URL = {};
 URL.blog =
-  'https://huabyte.com';
-URL.ryanfloyd = 'https://huabyte.com';
-URL.fund = 'https://github.com/AirHua-byte/FundSpider';
-URL.gitHub = 'https://github.com/AirHua-byte';
-URL.BiliBili = 'https://space.bilibili.com/450443708';
-URL.email = 'https://airhua602@gmail.com';
-URL.music = 'https://music.huabyte.com';
+  '博客';
+URL.ryanfloyd = '网站';
+URL.fund = 'https://github.com/kemomi/FundSpider';
+URL.gitHub = 'https://github.com/kemomi';
+URL.BiliBili = '哔哩哔哩';
+URL.email = '邮箱';
+URL.music = '音乐';
 URL.devTo =
-  'http://wpa.qq.com/msgrd?v=3&uin=3301833942&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:3301833942:41';
+  'http://wpa.qq.com/msgrd?v=3&uin=1443563828&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1443563828:41';
 ```
 
 ## 部署github-pages
